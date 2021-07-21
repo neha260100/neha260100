@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p> Arpit is geart </p>
+<p> I am Neha dhongade </p>
+<p> I am from nagpur </p>
+<p> I completed my btech in CSE </p>
